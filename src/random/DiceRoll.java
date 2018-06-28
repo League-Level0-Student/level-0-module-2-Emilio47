@@ -30,6 +30,8 @@ public class DiceRoll {
 
 	public static void main(String[] args) {
 		new DiceRoll().run();
+		
+		for(int i=0; i<4; i++);
 	}
 	
 	public void run() {
